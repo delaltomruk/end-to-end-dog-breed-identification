@@ -1,3 +1,4 @@
-# deep-learning
+# end-to-end-dog-breed-identification
 
-kaggle data set
+
+Based on the Kaggle competition: https://www.kaggle.com/c/dog-breed-identification/overview
