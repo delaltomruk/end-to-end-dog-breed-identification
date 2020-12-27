@@ -1,4 +1,18 @@
 # end-to-end-dog-breed-identification
 
+This notebook includes EDA, data visualization, preprocessing data and deep learning applications. The aim is to identify dog breeds based on images.
 
-Based on the Kaggle competition: https://www.kaggle.com/c/dog-breed-identification/overview
+## Dataset
+
+The data used clean_dialog.csv can be found here: https://www.kaggle.com/c/dog-breed-identification/overview
+
+Includes the train data and test data.
+
+## Libraries
+
+* sklearn
+* pandas
+* seaborn
+* matplotlib
+* tensorflow
+ 
